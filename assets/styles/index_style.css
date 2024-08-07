@@ -1,0 +1,54 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    text-align: center;
+    background-color: #6f6c6e;
+}
+#footer-container{
+    background-color: #0c0404;
+}
+#section-navbar{
+    background-color: #0c0404;
+    align-content: center;
+
+    text-align: center;
+}
+#section-navbar {
+    color: white;
+    text-align: center;
+}
+#about-model{
+    margin-left: 600px;
+    margin-right: 600px;
+}
+#model-banner{
+    margin-top: 30px;
+}
+#model-banner img{
+    border-style: solid;
+    border-color: #bbbbbc;
+    border-width: 20px;
+    
+}
+#content-container{
+    color: black;
+}
+.title-border{
+    border: white;
+    border-style: ridge;
+    border-width: 10px;
+}
+#copyright p{
+    margin: 0px;
+    padding: 20px;
+    color: white;
+    font-size: 20px;
+}
+#about-model img{
+    border-style: solid;
+    border-color: #bbbbbc;
+    border-width: 20px;
+}
+#about-model{
+    color: white;
+}
